@@ -1,0 +1,9 @@
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\bin\Debug\ST_Computer.exe.config
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\bin\Debug\ST_Computer.exe
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\bin\Debug\ST_Computer.pdb
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\obj\Debug\ST_Computer.csprojResolveAssemblyReference.cache
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\obj\Debug\ST_Computer.Form1.resources
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\obj\Debug\ST_Computer.Properties.Resources.resources
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\obj\Debug\ST_Computer.csproj.GenerateResource.Cache
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\obj\Debug\ST_Computer.exe
+c:\users\jw33\documents\visual studio 2017\Projects\ST_Computer\ST_Computer\obj\Debug\ST_Computer.pdb
